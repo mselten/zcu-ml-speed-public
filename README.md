@@ -1,18 +1,13 @@
 # README
-===============
 
 ## Introduction
----------------
-
 To get started with this project, you'll need to have Python installed on your system. Additionally, we recommend using a good IDE (Integrated Development Environment) such as PyCharm.
 
 ## Installing PyCharm
----------------------
 
 PyCharm comes in two versions: Professional and Community Edition. As a student, you may have access to a license for the Professional version, but we recommend using the Community Edition, which is open-source and free.
 
 ## Running the Test Script
--------------------------
 
 To run the `test-script.py` file, you'll need to install the following libraries:
 
@@ -22,7 +17,6 @@ To run the `test-script.py` file, you'll need to install the following libraries
 * **Scikit-learn (Sklearn)**: for machine learning tasks
 
 ## Installation Instructions (Windows)
--------------------------------------
 
 1. Install Python from the official website.
 2. Install PyCharm Community Edition from the JetBrains website.
