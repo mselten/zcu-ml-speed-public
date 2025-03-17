@@ -11,7 +11,6 @@
 
 ### LLM - jazykové modely
 [Embedding projector](https://projector.tensorflow.org/) - embeddings visualization \
-
 [3blue1brown - LLM](https://www.youtube.com/watch?v=LPZh9BOjkQs&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5) - 3blue1brown about LLM (check the whole series)
 
 
